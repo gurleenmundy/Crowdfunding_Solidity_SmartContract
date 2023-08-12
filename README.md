@@ -35,14 +35,6 @@ This Solidity smart contract implements a basic crowdfunding platform, allowing 
 - `voteRequest()`: Contributors can vote on payment requests.
 - `makePayment()`: Campaign manager can finalize and make payments for approved requests.
 
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
-
-## License
-
-This project is licensed under the [UNLICENSED](LICENSE) License.
-
 ## Disclaimer
 
 This smart contract is provided for educational and demonstration purposes. Use it at your own risk. The contract may contain vulnerabilities and should not be used in production without proper security auditing.
